@@ -7,7 +7,7 @@ config:delete
 
 Deletes a store config item
 
-To delete all entries if a path you can set the option --all.
+To delete all entries of a path you can set the option --all.
 
 Usage:
 
